@@ -41,7 +41,9 @@ AntConc
 
 ![](https://github.com/olesyaisme/hw6/blob/master/%D0%BF%D0%B8%D1%80%D0%BE%D0%B32.jpg)
 
-д) ![](https://github.com/olesyaisme/hw6/blob/master/karenina1.jpg)
+д) 
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D0%BD%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D0%BE%D1%81%D1%82%D1%8C.jpg)
 
 
 
@@ -76,3 +78,11 @@ AntConc
 д)
 
 ![](https://github.com/olesyaisme/hw6/blob/master/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0.jpg)
+
+
+
+Вывод.
+
+Роман "Анна Каренина" имеет больший объем нежели роман "Коллекционер", поэтому в нем больше вероятность найти такие слова как "золото" или "пирог".
+
+В обеих книгах самые распорстраненые слова - это метсоимения, предолгои и союзы. самые мало встречающиеся слова - иностранные
