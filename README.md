@@ -53,7 +53,9 @@ AntConc
 
 а) и, я, не, в, что 
 
-б) ![](https://github.com/olesyaisme/hw6/blob/master/%D1%84%D0%B0%D1%83%D0%BB%D0%B71.jpg)
+б) 
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D1%84%D0%B0%D1%83%D0%BB%D0%B71.jpg)
 
 в) 1. слова "золото" нет. Других форм этого слова тоже нет(скрин не прикрепляю)
 
