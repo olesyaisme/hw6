@@ -42,3 +42,30 @@ AntConc
 ![](https://github.com/olesyaisme/hw6/blob/master/%D0%BF%D0%B8%D1%80%D0%BE%D0%B32.jpg)
 
 д) ![](https://github.com/olesyaisme/hw6/blob/master/karenina1.jpg)
+
+
+
+
+
+
+
+джон фаулз - коллекционер
+
+а) и, я, не, в, что 
+б) ![](https://github.com/olesyaisme/hw6/blob/master/%D1%84%D0%B0%D1%83%D0%BB%D0%B71.jpg)
+в) 1. слова "золото" нет. Других форм этого слова тоже нет(скрин не прикрепляю)
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D1%84_%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%BE.jpg)
+2.  слово "отчаяние" встречается 9 раз
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D1%84_%D0%BE%D1%82%D1%87%D0%B0%D1%8F%D0%BD%D0%B8%D0%B5.jpg)
+3. слово "пирог" не встречается
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D1%84_%D0%BF%D0%B8%D1%80%D0%BE%D0%B3.jpg)
+г) 2. слово "отчаяние" не употребляется в начале книги, однако учащается к концу книги
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D1%84_%D0%BE%D1%82%D1%87%D0%B0%D1%8F%D0%BD%D0%B8%D0%B52.jpg)
+
+д)
+
+![](https://github.com/olesyaisme/hw6/blob/master/%D0%B1%D0%B0%D0%B1%D0%BE%D1%87%D0%BA%D0%B0.jpg)
